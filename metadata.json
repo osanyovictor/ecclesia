@@ -1,0 +1,5 @@
+{
+  "name": "Ecclesia",
+  "description": "A comprehensive church management system with dashboard, member directory, financial tracking, and cell group management.",
+  "requestFramePermissions": []
+}
